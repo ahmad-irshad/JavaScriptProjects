@@ -34,11 +34,12 @@ margin: 20px 0;
 
 .seat{
     background-color: darkgray;
-    height: 12px;
+    height: 18px;
     width: 15px;
     margin: 3px;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
+    text-align: center;
 }
 
 .row{
@@ -89,9 +90,9 @@ margin: 20px 0;
 
 .screen{
     background-color: white;
-    height: 70px;
+    height: 150px;
     width: 100%;
-    margin: 15px 0px;
+    margin: 15px 0px 50px 0px;
     transform: rotateX(-45deg);
     box-shadow: 0 3px 10px rgba(255, 255, 255, 0.7);
 }
